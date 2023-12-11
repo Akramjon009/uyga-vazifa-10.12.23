@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akraz\\source\\repos\\MyApp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj": {}
+    "C:\\Users\\akraz\\source\\repos\\myapp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akraz\\source\\repos\\MyApp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj": {
+    "C:\\Users\\akraz\\source\\repos\\myapp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akraz\\source\\repos\\MyApp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj",
+        "projectUniqueName": "C:\\Users\\akraz\\source\\repos\\myapp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj",
         "projectName": "problem5",
-        "projectPath": "C:\\Users\\akraz\\source\\repos\\MyApp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj",
+        "projectPath": "C:\\Users\\akraz\\source\\repos\\myapp\\uyga vazifa 10.12.23\\ConsoleApp14\\problem5.csproj",
         "packagesPath": "C:\\Users\\akraz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akraz\\source\\repos\\MyApp\\uyga vazifa 10.12.23\\ConsoleApp14\\obj\\",
+        "outputPath": "C:\\Users\\akraz\\source\\repos\\myapp\\uyga vazifa 10.12.23\\ConsoleApp14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akraz\\AppData\\Roaming\\NuGet\\NuGet.Config",
