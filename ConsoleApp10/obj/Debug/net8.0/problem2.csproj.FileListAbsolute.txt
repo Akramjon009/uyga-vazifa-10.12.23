@@ -1,0 +1,4 @@
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp10\obj\Debug\net8.0\problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp10\obj\Debug\net8.0\problem2.AssemblyInfoInputs.cache
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp10\obj\Debug\net8.0\problem2.AssemblyInfo.cs
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp10\obj\Debug\net8.0\problem2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\bin\Debug\net8.0\problem3.exe
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\bin\Debug\net8.0\problem3.deps.json
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\bin\Debug\net8.0\problem3.runtimeconfig.json
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\bin\Debug\net8.0\problem3.dll
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\bin\Debug\net8.0\problem3.pdb
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.AssemblyInfoInputs.cache
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.AssemblyInfo.cs
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.csproj.CoreCompileInputs.cache
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.dll
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\refint\problem3.dll
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.pdb
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\problem3.genruntimeconfig.cache
+C:\Users\akraz\source\repos\MyApp\uyga vazifa 10.12.23\ConsoleApp12\obj\Debug\net8.0\ref\problem3.dll
